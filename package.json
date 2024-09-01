@@ -1,0 +1,12 @@
+{
+  "name": "potencia-maquina",
+  "version": "1.0.0",
+  "main": "testeJS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
